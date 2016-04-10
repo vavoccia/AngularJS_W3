@@ -68,8 +68,6 @@
     <Content Include="app\images\zucchipakoda.png" />
     <Content Include="app\menu.html" />
     <Content Include="app\scripts\app.js" />
-    <Content Include="app\scripts\controller.js" />
-    <Content Include="app\scripts\service.js" />
     <Content Include="app\styles\bootstrap-social.css" />
     <Content Include="app\styles\mystyles.css" />
     <Content Include="images\alberto.png" />
