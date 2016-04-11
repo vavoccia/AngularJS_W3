@@ -78,7 +78,6 @@
     <Content Include="images\buffet.png" />
     <Content Include="images\logo.png" />
     <Content Include="images\uthapizza.png" />
-    <Content Include="menu.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -93,7 +92,6 @@
     <None Include="css\default.css" />
     <Content Include="images\.DS_Store" />
     <None Include="lib\default.js" />
-    <None Include="index.html" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packag.json" />
