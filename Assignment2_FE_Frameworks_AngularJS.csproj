@@ -58,6 +58,10 @@
     <Reference Include="System.EnterpriseServices" />-->
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\scripts\app.js" />
+    <Content Include="app\scripts\controllers.js" />
+    <Content Include="app\scripts\services.js" />
+    <Content Include="app\views\aboutus.html" />
     <Content Include="app\views\contactus.html" />
     <Content Include="app\views\dishdetail.html" />
     <Content Include="app\images\alberto.png" />
@@ -70,10 +74,11 @@
     <Content Include="app\index.html" />
     <Content Include="app\views\footer.html" />
     <Content Include="app\views\header.html" />
+    <Content Include="app\views\home.html" />
     <Content Include="app\views\menu.html" />
-    <Content Include="app\scripts\app.js" />
-    <Content Include="app\scripts\controllers.js" />
-    <Content Include="app\scripts\services.js" />
+    <Content Include="app\scripts\app_old.js" />
+    <Content Include="app\scripts\controllers_old.js" />
+    <Content Include="app\scripts\services_old.js" />
     <Content Include="app\styles\bootstrap-social.css" />
     <Content Include="app\styles\mystyles.css" />
     <Content Include="images\alberto.png" />
